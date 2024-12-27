@@ -26,7 +26,7 @@ Then Make sure to run it in Microsoft Visual studio
 ## Usage
 IMPORTANT
 
-When running cs2 with this you must put "-insecure" to disable anticheat
+When running cs2 with this cheat you must put "-insecure" to disable anticheat into the selected launch option
 
 ![image](https://github.com/user-attachments/assets/5af8e350-a8d4-4e5e-8bcf-dd396696e812)
 
