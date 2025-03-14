@@ -12,7 +12,7 @@ Just install Direct X sdk its needed
 
 ## Installation
 
-# Extracting the File
+### Extracting the File
 
 Download the the source code from this Github repo
 
@@ -22,7 +22,12 @@ Once you have extracted the file open Visual studio (assuming you've installed i
 
 Then Make sure to run it in Microsoft Visual studio
 
-# Clone the Repo
+### Clone the Repo
+
+First copy this Url ```https://github.com/ImOnPsychedelics/Cs2_esp.git```
+
+In Microsoft visual studio click the option clone repo paste it 
+
 
 ## Usage
 IMPORTANT
