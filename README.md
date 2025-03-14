@@ -30,6 +30,11 @@ In Microsoft visual studio click the option clone repo paste it
 
 
 ## Usage
+
+Once its done copying make sure to click build solution
+
+Run the when you are in cs2
+
 IMPORTANT
 
 When running cs2 with this cheat you must put "-insecure" to disable anticheat into the selected launch option
@@ -42,7 +47,7 @@ This is for educational purposes, I do not encourage cheating in valve games.
 
 ## Notice
 
-Further updates might happen to this Cs2 cheat but as im usaully busy with other projects and life those updates might be infrequent so please add me on discord if you need help my use is "imdefinetlynothim" feel free to reach out
+Further updates might happen to this Cs2 cheat but as im usaully busy with other projects and life those updates might be infrequent so please add me on discord if you need help my use is ```imdefinetlynothim``` feel free to reach out
 
 ## License
 
