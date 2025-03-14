@@ -12,16 +12,17 @@ Just install Direct X sdk its needed
 
 ## Installation
 
+# Extracting the File
+
 Download the the source code from this Github repo
 
 Extract the file
 
 Once you have extracted the file open Visual studio (assuming you've installed it already), then click on Open local file
 
-![image](https://github.com/user-attachments/assets/0831f24c-8ada-4218-9ee9-ee791f1d36de)
-
 Then Make sure to run it in Microsoft Visual studio
 
+# Clone the Repo
 
 ## Usage
 IMPORTANT
