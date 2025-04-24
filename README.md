@@ -45,6 +45,12 @@ If you dont do what is above you will most likely be VAC banned this is a warnin
 
 This is for educational purposes, I do not encourage cheating in valve games.
 
+## Disclaimer
+
+This is outdated so If you would like to updated it you are free to fork this repo
+
+In case you do want to update it use [Cs2 Dumper](https://github.com/a2x/cs2-dumper)
+
 ## Notice
 
 Further updates might happen to this Cs2 cheat but as im usaully busy with other projects and life those updates might be infrequent so please add me on discord if you need help my use is ```imdefinetlynothim``` feel free to reach out
